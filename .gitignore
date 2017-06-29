@@ -1,0 +1,17 @@
+/node_modules
+/public/storage
+/public/hot
+/storage/*.key
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+/public/css/app.css.map
+/npm-debug.log
+.DS_Store
+/hosivan.md
+/public/bower_components/
+/public/addon.zip
+/public/addon.crx
+/public/addon.pem

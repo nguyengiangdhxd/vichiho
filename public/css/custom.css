@@ -1,0 +1,79 @@
+.sidebar-nav{
+    padding: 0!important;
+}
+
+.panel-nhatminh{
+    border-color: #29c75f!important;
+}
+
+.panel-nhatminh .panel-heading{
+    background: #29c75f!important;
+    color: #fff!important;;
+    border-bottom-color: #29c75f!important;;
+}
+
+.no-padding-leftright, .no-padding-leftright td, .no-padding-leftright th{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.navbar .navbar-collapse .navbar-nav > li.dropdown.arrow-none:hover:after{
+    display: none!important;
+}
+
+.width-auto{
+    width: auto!important;
+}
+
+.border-top-none{
+    border-top:none!important;
+}
+
+/** page order detail backend **/
+#order-detail-page .order-fee{
+    margin: 0 0 30px 0;
+    padding: 0;
+    list-style: none;
+    float: left;
+    width: 100%;
+}
+#order-detail-page .order-fee li{
+    width: 25%;
+    float: left;
+    padding: 15px 0;
+}
+
+/** css box chat **/
+#box-chat-right .comment-text-grey{
+    color: grey!important;
+}
+
+#box-chat-right .comment-panel-view{
+    list-style: none;
+    overflow-y: auto;
+    margin: 0;
+    padding: 0;
+}
+
+/** page customer cart **/
+._shop{
+    margin-bottom: 30px!important;
+}
+
+/** page create package **/
+.form-list-item{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    /* margin-bottom: 20px; */
+}
+.form-list-item li{
+    margin-bottom: 20px;
+}
+.form-list-item li:last-child{
+    margin-bottom: 0;
+}
+
+.notifyjs-corner{
+    z-index: 300008!important;
+}
